@@ -1,0 +1,27 @@
+.altura{
+  height:250px !important;
+}
+
+
+@media screen and (min-width:576px){
+
+  #bullets{
+  list-style-position:inside !important;
+}
+  
+      #produto{
+    width:50% !important;
+  }
+}
+
+@media screen and (max-width:930px){
+
+  #bullets{
+  list-style-position:inside !important;
+}
+
+      #produto{
+    width:80% !important;
+  }
+  
+}

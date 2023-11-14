@@ -1,0 +1,10 @@
+#banner{
+  height:91vh !important;
+  background-image:url(../../public/imagens/capa.png);
+  background-position:85%;
+  background-size:cover;
+}
+h1{
+  line-height:1.5
+}
+
